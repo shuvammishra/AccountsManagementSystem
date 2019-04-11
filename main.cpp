@@ -17,4 +17,9 @@ struct User
 	double budget;
 };
 
+void DisplayMainMenu()
+{
+}
+
+
 
