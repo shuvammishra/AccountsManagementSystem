@@ -13,6 +13,8 @@ struct Category
 struct User
 {
 	string username;
+	Categoy account, income, expense;
+	double budget;
 };
 
 
